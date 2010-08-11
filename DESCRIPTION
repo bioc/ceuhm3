@@ -1,0 +1,9 @@
+Package: ceuhm3
+Title: ceuhm3
+Version: 0.0.1
+Author: VJ Carey
+Description: ceuhm3
+Depends: snpMatrix
+Maintainer: VJ Carey <stvjc@channing.harvard.edu>
+License: Artistic-2.0
+LazyLoad: yes
