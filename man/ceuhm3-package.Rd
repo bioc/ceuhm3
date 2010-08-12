@@ -17,7 +17,7 @@ HapMap phase III genotype calls for CEU subpopulation
 \tabular{ll}{
 Package: \tab ceuhm3\cr
 Version: \tab 0.0.0\cr
-Depends: \tab snpMatrix\cr
+Depends: \tab GGBase\cr
 License: \tab Artistic-2.0\cr
 LazyLoad: \tab yes\cr
 Built: \tab R 2.12.0; ; 2010-07-16 13:28:01 UTC; unix\cr
