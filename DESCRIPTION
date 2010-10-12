@@ -7,4 +7,4 @@ Depends: GGBase
 Maintainer: VJ Carey <stvjc@channing.harvard.edu>
 License: Artistic-2.0
 LazyLoad: yes
-biocViews: Genetics
+biocViews: Genetics, GeneExpression, GeneticVariability, SNP
