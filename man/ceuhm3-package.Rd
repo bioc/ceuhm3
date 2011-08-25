@@ -48,6 +48,8 @@ Maintainer: VJ Carey <stvjc@channing.harvard.edu>
 %~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 %}
 \examples{
-data(hm3ceuSMS)
-hm3ceuSMS
+library(GGtools)
+h3_20 = getSS("ceuhm3", "chr20")
+t1 = gwSnpTests(genesym("CPNE1")~male, h3_20, chrnum("chr20"))
+topSnps(t1)
 }

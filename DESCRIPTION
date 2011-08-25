@@ -4,6 +4,7 @@ Version: 0.0.7
 Author: VJ Carey
 Description: ceuhm3: genotype (HapMap phase III) and expression data for CEPH CEU cohort
 Depends: GGBase
+Imports: GGtools
 Maintainer: VJ Carey <stvjc@channing.harvard.edu>
 License: Artistic-2.0
 LazyLoad: yes
