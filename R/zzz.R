@@ -25,4 +25,3 @@
         selectSome(cn), "\n")
 }
 
-getSS = GGtools::getSS
