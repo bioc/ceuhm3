@@ -1,6 +1,7 @@
 \name{ceuhm3-package}
 \alias{ceuhm3-package}
 \alias{ceuhm3}
+\alias{ex}
 \alias{ceuhm3.sml}
 \alias{hm3ceuSMS}
 \alias{hm3ceuLocs}
