@@ -1,9 +1,9 @@
 Package: ceuhm3
 Title: ceuhm3: genotype (HapMap phase III) and expression data for CEPH CEU cohort
-Version: 0.0.8
+Version: 0.0.9
 Author: VJ Carey
 Description: ceuhm3: genotype (HapMap phase III) and expression data for CEPH CEU cohort
-Depends: GGBase
+Depends: R (>= 2.12.0), GGBase, Biobase
 Imports: GGtools
 Maintainer: VJ Carey <stvjc@channing.harvard.edu>
 License: Artistic-2.0
